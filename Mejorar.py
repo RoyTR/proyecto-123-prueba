@@ -1,3 +1,4 @@
+#Gonzalo =)
 def nombreDelMetodo(argumentos <opcionales>):
     mklfas
     fadf
@@ -9,9 +10,7 @@ def nombreDelMetodo(argumentos <opcionales>):
     
     adfsdfdaf
     
-aca ya estoy fuera del metodo
-
-
+#aca ya estoy fuera del metodo####
 
 def evaluarSiSonNumerosIguales(numero1, numero2, numero3):
     if (numero1==numero2 and numero1==numero3):
