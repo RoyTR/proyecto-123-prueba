@@ -12,13 +12,10 @@ def clave_ingresada_es_4_digitos(clave):
         print("SI es de 4 digitos")
     else:
         print("NO es de 4 digitos")
-    #aca estoy rendotr del metodo
-    
-    #sigo dentro
-    
-#aca estoy fuera
 
 #posicion 3 + posicion 4 es par
+
+
 
 #si cumple las 2, entonces es clave correcta
 
