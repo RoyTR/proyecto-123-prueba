@@ -15,6 +15,8 @@ def clave_ingresada_es_4_digitos(clave):
 
 #posicion 3 + posicion 4 es par
 
+#una nueva linea de comentarios
+
 #si cumple las 2, entonces es clave correcta
 
 clave_ingresada = input("Ingrese la clave: ")
